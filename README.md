@@ -21,8 +21,8 @@ For this project specifically, we decided to hone in on cardiovascular disease a
   - The folder of Visualizations includes the files that contain the visualizations created throughout the project.
 
 ### Websites Pulled From
-Public School Rankings: [Data Was Scaraped From This Website](https://worldpopulationreview.com/state-rankings/public-school-rankings-by-state) |
-U.S. Chronic Disease Indicators: [Website](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators) |
-Institute for Health Metrics and Evaluation: [Website](https://www.healthdata.org/news-events/newsroom/news-releases/learning-life-higher-level-education-lower-risk-dying#:~:text=18%20years%20of%20education%20reduces,per%20day%20for%2010%20years.) | Heart Disease Source: [CDC 'About Heart Disease'](https://www.cdc.gov/heart-disease/about/?CDC_AAref_Val=https://www.cdc.gov/heartdisease/about.htm)
+Public School Rankings: [World Population Review](https://worldpopulationreview.com/state-rankings/public-school-rankings-by-state) |
+U.S. Chronic Disease Indicators: [Data.gov](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators) |
+Institute for Health Metrics and Evaluation: [Institute for Health Metrics and Evaluation](https://www.healthdata.org/news-events/newsroom/news-releases/learning-life-higher-level-education-lower-risk-dying#:~:text=18%20years%20of%20education%20reduces,per%20day%20for%2010%20years.) | Heart Disease Source: [CDC 'About Heart Disease'](https://www.cdc.gov/heart-disease/about/?CDC_AAref_Val=https://www.cdc.gov/heartdisease/about.htm)
 
 
