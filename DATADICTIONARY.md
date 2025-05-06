@@ -16,8 +16,6 @@
 | DataValueTypeID | Text | Dat Value Type Identifier |
 | StratificationCategoryID1 | Text | Stratification Category Identifier |
 | StratificaitonID1 | Text | Stratification Identifier |
-| Overall Public School Rank 2024 | Text | The overall ranking based on all other factors|
-| K-12 Performance 2024 | Text | The ranking of the K-12 schools in the state |
-| School Funding and Resources 2024 | Text | The ranking of funding and resources provided in the state |
-| Higher Ed Qulity 2024 | Text | The ranking of the funding and resources provided in the state |
-| School Safety Rank 2024 | Text | The ranking of the safety of the schools in the state |
+| Overall Public School Rank 2021 | Text | The overall ranking based on all other factors|
+| Higher Ed Qulity 2021 | Text | The ranking of the funding and resources provided in the state |
+| School Safety Rank 2021 | Text | The ranking of the safety of the schools in the state |
