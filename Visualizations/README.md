@@ -1,8 +1,8 @@
 ### Visualizations Information
 
-IN THIS FOLDER: It will have juypter notebooks from Data Wrangling Project of Finaly results from the project
+IN THIS FOLDER: It will contain visualizations used in the project
 
-### Table of Contents For Jupyter Noteook Folder:
+### Table of Contents For Visualizations Noteook Folder:
 | File | Description |
 |------------------|----------------------------|
 | bottom_10_rates.jpg | Contains Bar Plot for chronic illness vs lowest state rankings |
