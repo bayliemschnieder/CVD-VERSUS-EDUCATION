@@ -6,8 +6,9 @@
 | DataSource | Text | The Data Source |
 | Topic | Text | Indicators of Disease |
 | Question | Text | Question used in data collection |
-| DataValueUnit | Text | Number or % |
-| DataValueType | Text | The type of Data |
+| DataValue | Numeric |Number of cases |
+| DataValueUnit | Text | Cases per 100,000 |
+| DataValueType | Text | Crude rate or age-adjusted rate |
 | StratificationCategory1 | Text | Questions asked about the participant |
 | Stratification1 | Text | Answer to the question asked to participant |
 | LocationID | Numeric | Location Identifier |
