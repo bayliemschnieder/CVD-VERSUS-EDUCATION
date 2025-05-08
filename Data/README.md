@@ -9,7 +9,11 @@ IN THIS DATA FOLDER: Contains info about data gathered for the project. A lot of
 | State_Ed_Rankings.csv | Scraped data from Public School ranking website |
 | State_Unique_Data.csv | Combined Cleaned_Chronic_Data and State_Ed_Rankings for analysis |
 | BottomTen.csv | Filtered version of State_Unique_Data containing only information from the bottom 10 ranked states |
-| TopTenStates.csv | Filtered version of State_Unique_Data containing only information from the top 10 ranked states |
+| TopTenStates.csv | Filtered version of State_Unique_Data containing only information from the top 10 ranked states overall|
+| Top25.csv | Filtered version of State_Unique_Data containing only information from the top 25 ranked states overall |
+| Bottom25.csv | Filtered version of State_Unique_Data containing only information from the bottom 25 ranked states overall |
+| CrudeRate.csv | Filtered version of State_Unique_Data containing only information from states crude rate reporting of cardiovascular disease |
+| AgeAdjustedRate.csv | Filtered version of State_Unique_Data containing only information from states age-adjusted rate reporting of cardiovascular disease |
 
 Originally imported data file with information on Chronic Disease Indicators is too large to upload to GitHub, a smaller version of this data file, CONDENSEDUSChronicDiseaseIndicators is available in this folder to understand what the original data set looked like. To download the original data set to run all analysis files properly, visit [U.S. Chronic Disease Indicators, Data.gov](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators)
 
