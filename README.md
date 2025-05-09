@@ -10,6 +10,7 @@ For this project specifically, we decided to hone in on cardiovascular disease a
 | Data | Contains data/.csv files used during project | 
 | Visualizations | Contains visualizations created to better understand findings |
 |DATADICTIONARY.md | Data Dictionary |
+|Project Report | Contains information about our full project report |
 
 
 ### Folders:
@@ -19,6 +20,8 @@ For this project specifically, we decided to hone in on cardiovascular disease a
   - The folder of Data includes files used during the project, mainly .csv files.
 - Visualizations:
   - The folder of Visualizations includes the files that contain the visualizations created throughout the project.
+- Project Report
+  - The folder of project report has our final report and details about our findings throughout our research.
 
 ### Websites Pulled From
 Public School Rankings: [World Population Review](https://worldpopulationreview.com/state-rankings/public-school-rankings-by-state) |
