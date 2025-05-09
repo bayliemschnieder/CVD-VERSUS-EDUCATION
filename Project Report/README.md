@@ -1,1 +1,1 @@
-This folder contains the project report where the analysis for all of the machine learning, descriptive statistics and coding was compiled. This report explains why we chose the files we did for analysis, the methods we used and the findings we had. 
+This folder contains the project report (BAIS3250_ProjectReport.pdf) where the analysis for all of the machine learning, descriptive statistics and coding was compiled. This report explains why we chose the files we did for analysis, the methods we used and the findings we had. 
