@@ -5,7 +5,7 @@ IN THIS FOLDER: It will have Juypter notebooks that were used to gather the fina
 ### Table of Contents For Jupyter Noteook Folder:
 | File | Description |
 |------------------|----------------------------|
-| MachineLearningCVD.ipynb | Contains Machine learning techniques of Linear Regression, KNN, R2 Score, Pearson Test, Classifications and Hypothesis Testing |
+| MachineLearningCVD.ipynb | Contains Machine learning techniques of Linear Regression, Logistic Regression, KNN, R2 Score, Pearson Test, Classifications, and Hypothesis Testing |
 | FilteredDataFileCVD.ipynb | Contains cleaning for the Chronic Health Indicators Dataset | 
 | VisualizationsCVD.ipynb | Cotains Visualizations for analysis questions, the visualizations are a wordcloud, scatterplots and barplots |
 | WebScrapingandDataSetCombinationCVD.ipynb | Contains Web Scraping data from 1 website for school ranking |
